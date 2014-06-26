@@ -39,6 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sets.cs" />
+    <Compile Include="Games.cs" />
+    <Compile Include="GamesScore.cs" />
+    <Compile Include="PuntenScore.cs" />
+    <Compile Include="Punten.cs" />
+    <Compile Include="SetsScore.cs" />
+    <Compile Include="Speler.cs" />
+    <Compile Include="SpelerGames.cs" />
+    <Compile Include="SpelerSets.cs" />
     <Compile Include="TennisMatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
